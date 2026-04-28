@@ -1,0 +1,9 @@
+tribble(~'Item', ~'Qty', ~'Cost',
+        'back+sides', 1, 35,
+        'AB top', 1, 20,
+        'Bridge', 1, 6,
+        'Purfling', 4, 1,
+        'banding', 4, 0,
+        'kerfing', 1, 15,
+        'Fingerboard', 1, 15,
+        'Truss rod', 1, 20) -> t

@@ -7,4 +7,5 @@ tribble(~'Item', ~'Qty', ~'Cost',
         'kerfing', 1, 15,
         'Fingerboard', 1, 15,
         'Truss rod', 1, 20,
-        'Headstock veneer', 2, 10) -> t
+        'Headstock veneer', 2, 10,
+        'Gotoh SG381-01', 1, 60) -> t
